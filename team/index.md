@@ -15,7 +15,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Alumini.
+Alumni.
 
 {% include section.html %}
 
