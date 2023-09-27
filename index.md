@@ -3,7 +3,7 @@
 
 # bioticaresearchgroup's Website
 
-An engaging 1-3 sentence description of your lab.
+The team led by Prof. G.S Sailaja at the Laboratory of Regenerative and Theranostics Biomaterials works towards developing innovative solutions to some of the pressing questions in Biomedical materials research. Situated at the Department of Polymer Science and Rubber Technology at Cochin University of Science and Technology in Kerala, India, the lab promotes interdisciplinary research and fosters a team that has representations from diverse fields including materials science, polymer technology, chemistry, biochemistry, molecular and cellular biology etc.
 
 {% include section.html %}
 
