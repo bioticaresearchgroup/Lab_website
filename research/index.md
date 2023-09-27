@@ -7,9 +7,21 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+# Biomaterials
+Combinatorial approaches in Tissue Engineering and Regenerative Medicine,
+Bioinspired Approaches for Bone and Neuronal Tissue Engineering,
+Drug Delivery devices- Therapeutic scaffolds and Natural Products
+Radiopaque Materials & Injectable Biomaterials for Regenerative Tissue Engineering
+# Nanomedicine & Theranostic Materials 
+Magnetic Drug Delivery Devices with Hyperthermia Potential for Cancer Therapy
+Targeted Gene Therapy with Functional Nanoparticles,
+Quantum dots, MOFs and Fluorescent materials for Cancer Theranostics,
+Mechanism of apoptotic pathways and cellular uptake mechanism of nanoparticles
+# Antibacterial Formulations & Products
+Development of antibacterial formulations for biomedical products
+# Nanotechnology
+Inorganic hybrids
+Nano Metal Assembled Structures for Biological Applications
 {% include section.html %}
 
 ## Highlighted
